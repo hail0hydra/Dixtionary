@@ -1,4 +1,4 @@
-# BashBabel
+# ShellSpeak 
 
 <br>
 <br>
@@ -22,13 +22,13 @@
 - Git clone
 
 ```bash
-git clone https://hail0hydra/BashBabel
+git clone https://hail0hydra/ShellSpeak
 ```
 
 - Go into the directory
 
 ```bash
-cd BashBabel
+cd ShellSpeak
 ```
 
 - Simple run the program :)
@@ -38,3 +38,21 @@ cd BashBabel
 ```
 
 ---
+
+<br>
+<br>
+<br>
+
+- Added support for windows as well. Just make sure you have `jq` avialable in path.
+
+```powershell
+scoop install jq
+```
+
+- use [this](./meaning.ps1) script instead of the bash one.
+
+- make sure to add it in the `env`.
+
+```powershell
+meaning.ps1
+```
