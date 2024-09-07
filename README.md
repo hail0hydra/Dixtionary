@@ -3,7 +3,7 @@
 <br>
 <br>
 
-![logo](./logo.png)
+![logo](./logo-new.png)
 
 
 <br>
