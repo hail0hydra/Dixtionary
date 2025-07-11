@@ -43,7 +43,7 @@ cd ShellSpeak
 <br>
 <br>
 
-- Added support for windows as well. Just make sure you have `jq` avialable in path.
+- Added support for __`Windows`__ as well. Just make sure you have `jq` avialable in path.
 
 ```powershell
 scoop install jq
