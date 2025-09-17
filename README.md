@@ -22,19 +22,34 @@
 - Git clone
 
 ```bash
-git clone https://hail0hydra/ShellSpeak
+git clone https://github.com/hail0hydra/Dixtionary
 ```
 
 - Go into the directory
 
 ```bash
-cd ShellSpeak
+cd Dixtionary
 ```
 
 - Simple run the program :)
 
 ```bash
+chmod +x meaning.sh
 ./meaning.sh 
+
+# For windows:
+
+powershell -ep bypass meaning.ps1
+
+#better is to change the execution policy to RemoteSigned
+# in admin powershell:
+Set-ExecutionPolicy -CurrentUser RemoteSigned
+
+#after that a simple
+
+./meaning.ps1 
+
+#will also execute the script
 ```
 
 ---
