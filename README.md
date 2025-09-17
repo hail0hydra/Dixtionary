@@ -3,8 +3,6 @@
 <br>
 <br>
 
-![logo](./logo-new.png)
-
 
 <br>
 <br>
